@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'xx系统',
+  title: \{{ name }},
 
   /**
    * @type {boolean} true | false
