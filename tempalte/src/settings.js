@@ -1,13 +1,13 @@
 /*
- * @Description: 
+ * @Description:
  * @Author: zjq
  * @Date: 2019-12-21 15:11:13
  * @LastEditors  : zjq
- * @LastEditTime : 2019-12-26 16:04:44
+ * @LastEditTime : 2019-12-26 16:33:47
  */
 module.exports = {
 
-  title: "{{ name }}",
+  title: '{{ name }}',
 
   /**
    * @type {boolean} true | false

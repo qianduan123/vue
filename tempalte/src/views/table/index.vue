@@ -1,10 +1,3 @@
-<!--
- * @Description: 
- * @Author: zjq
- * @Date: 2019-12-21 15:11:13
- * @LastEditors: zjq
- * @LastEditTime: 2019-12-26 16:19:23
- -->
 <template>
   <div class="app-container">
     <el-table
