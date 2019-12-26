@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: {{ name }},
+  title: "{{ name }}",
 
   /**
    * @type {boolean} true | false
